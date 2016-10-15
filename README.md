@@ -1,6 +1,12 @@
 # maquette-mapper
 
+[![Dependency Status][dependency]][david]
+[![devDependency Status][dev-dependency]][david-dev]
+[![Downloads][downloads]][npm]
+
 Helper class to create MaquetteJS mappings from Models to Views
+
+[![NPM][npm-stats]][npm]
 
 ## Installation
 ```sh
@@ -59,3 +65,11 @@ ul!= filters()
 ## License
 
 MIT
+
+  [dependency]: https://img.shields.io/david/nextorigin/maquette-mapper.svg?style=flat-square
+  [david]: https://david-dm.org/nextorigin/maquette-mapper
+  [dev-dependency]: https://img.shields.io/david/dev/nextorigin/maquette-mapper.svg?style=flat-square
+  [david-dev]: https://david-dm.org/nextorigin/maquette-mapper?type=dev
+  [downloads]: https://img.shields.io/npm/dm/maquette-mapper.svg?style=flat-square
+  [npm]: https://www.npmjs.org/package/maquette-mapper
+  [npm-stats]: https://nodei.co/npm/maquette-mapper.png?downloads=true&downloadRank=true&stars=true
