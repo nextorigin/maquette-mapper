@@ -1,7 +1,7 @@
 {
   "name": "maquette-mapper",
   "version": "1.0.0",
-  "description": "",
+  "description": "Helper class to create MaquetteJS mappings from Models to Views",
   "main": "maquette-mapper.js",
   "scripts": {
     "build": "iced --bare --map --runtime node -o ./ -c src/",
