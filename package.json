@@ -1,0 +1,37 @@
+{
+  "name": "maquette-mapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "maquette-mapper.js",
+  "scripts": {
+    "build": "iced --bare --map --runtime node -o ./ -c src/",
+    "watch": "iced --watch --bare --map --runtime node -o ./ -c src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nextorigin/maquette-mapper.git"
+  },
+  "keywords": [
+    "maquette",
+    "maquettejs",
+    "mapper",
+    "mapping",
+    "mvc",
+    "mvvm",
+    "spine",
+    "spinejs",
+    "reactive"
+  ],
+  "author": "doublerebel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nextorigin/maquette-mapper/issues"
+  },
+  "homepage": "https://github.com/nextorigin/maquette-mapper#readme",
+  "dependencies": {
+    "maquette": "^2.4.1"
+  },
+  "devDependencies": {
+    "iced-coffee-script": "^108.0.11"
+  }
+}

@@ -1,0 +1,4 @@
+*.sublime-workspace
+*.sublime-project
+coverage/
+node_modules/
