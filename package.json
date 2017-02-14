@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/nextorigin/maquette-mapper#readme",
   "dependencies": {
-    "maquette": "^2.4.1"
+    "maquette": "^2.4.3"
   },
   "devDependencies": {
     "iced-coffee-script": "^108.0.11"
