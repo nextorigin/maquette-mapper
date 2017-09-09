@@ -1,5 +1,7 @@
 # maquette-mapper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nextorigin/maquette-mapper.svg)](https://greenkeeper.io/)
+
 [![Dependency Status][dependency]][david]
 [![devDependency Status][dev-dependency]][david-dev]
 [![Downloads][downloads]][npm]
